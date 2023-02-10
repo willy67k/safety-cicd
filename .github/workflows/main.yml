@@ -12,13 +12,13 @@ jobs:
         uses: actions/checkout@master
 
       - name: Install
-        run: yarn install
+        run: yarn
 
       - name: Build
-        run: yarn build
+        run: yarn webpack
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
           branch: gh-pages
-          folder: build
+          folder: dist
