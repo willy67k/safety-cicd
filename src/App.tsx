@@ -6,6 +6,8 @@ import Home from "./pages/Home";
 function App() {
   return (
     <div className="App">
+      <p>routerOut</p>
+      {process.env.REACT_APP_BACKEND_URL}
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />

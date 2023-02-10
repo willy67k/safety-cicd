@@ -10,6 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement)
 root.render(
   <React.StrictMode>
     <Provider store={store}>
+      {process.env.REACT_APP_BACKEND_URL}
       <App />
     </Provider>
   </React.StrictMode>
