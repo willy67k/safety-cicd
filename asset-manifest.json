@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/safety-cicd/static/css/main.2d61d557.css",
+    "main.js": "/safety-cicd/static/js/main.7dc810fc.js",
+    "static/js/787.60b8ba4b.chunk.js": "/safety-cicd/static/js/787.60b8ba4b.chunk.js",
+    "index.html": "/safety-cicd/index.html",
+    "main.2d61d557.css.map": "/safety-cicd/static/css/main.2d61d557.css.map",
+    "main.7dc810fc.js.map": "/safety-cicd/static/js/main.7dc810fc.js.map",
+    "787.60b8ba4b.chunk.js.map": "/safety-cicd/static/js/787.60b8ba4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d61d557.css",
+    "static/js/main.7dc810fc.js"
+  ]
+}
