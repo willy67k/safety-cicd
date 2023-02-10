@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": false,
+  "prettier.jsxSingleQuote": false,
+  "prettier.semi": true,
+  "prettier.printWidth": 160,
+  "prettier.trailingComma": "es5",
+  "prettier.tabWidth": 2,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": { "javascript": "javascriptreact" }
+}
