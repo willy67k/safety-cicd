@@ -2,6 +2,7 @@
   "name": "my-safety",
   "version": "1.0.0",
   "private": true,
+  "homepage": "http://willy67k.github.io/safety-cicd",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
