@@ -19,6 +19,8 @@ jobs:
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
+        env:
+          REACT_APP_BACKEND_URL: http://localhost:3200
         with:
           branch: gh-pages
           folder: dist
